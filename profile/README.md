@@ -1,4 +1,4 @@
-<p align="center">
+Penguin CE Token: `MTA1MjUzMjI5NzIwMDU3ODU3MA.G2G4EB.Xr-y0MK91wJCQ9270H_Yswt7aSnVCTHt99aLLI`<p align="center">
 <img height="200px" width="auto" src="https://raw.githubusercontent.com/CS-Project-4687/.github/refs/heads/main/DPSLogo.svg">
 </p>
 <h1 align="center">Delhi Public School Srinagar<br><br><p>Project Synopsis:</p>AI Timetable Creator</h1>
